@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\临时记录库\信息论与编码\coursework\main\main\main.cpp(1472,14): warning C4101: “BER_soft”: 未引用的局部变量
+D:\临时记录库\信息论与编码\coursework\main\main\main.cpp(1472,24): warning C4101: “BER_BCJR”: 未引用的局部变量
+D:\临时记录库\信息论与编码\coursework\main\main\main.cpp(1566,1): warning C4326: “main”的返回类型应为“int”而非“void”
+D:\临时记录库\信息论与编码\coursework\main\main\main.cpp(1593,35): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  main.vcxproj -> D:\临时记录库\信息论与编码\coursework\main\Debug\main.exe
