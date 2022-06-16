@@ -20,7 +20,8 @@ If you have any question, please contact me via e-mail: wuchy28@mail2.sysu.edu.c
 #define message_length 1024 //the length of message
 #define codeword_length 2048 //the length of codeword
 #define triple_mes_len 3096	//the length of trubo code
-float code_rate = (float)message_length / (float)codeword_length;
+//float code_rate = (float)message_length / (float)codeword_length;
+float code_rate = (float)message_length / (float)triple_mes_len;
 
 // channel coefficient
 #define pi 3.1415926
